@@ -1,15 +1,38 @@
 body
 {
-	background-color: #0A034D;
-	color: WHITE;
+	background-color: #000000;
+	color:  #F3F6F7;
 }	
 
 h1
 {
-	font-size: 25px;
+	font-size: 40px;
 }
 
 h2
 {
-	font-size: 20px;
+	font-size: 25px;
+}
+
+a
+{
+    
+}
+
+a:visited
+{
+    
+}
+
+#RepoLink
+{
+    color: WHITE;
+}
+
+.DivBlock
+{
+    background-color: #212f3c;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 30px;
 }
