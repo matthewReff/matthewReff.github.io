@@ -4,6 +4,8 @@ body
 	color:  #F3F6F7;
 }	
 
+
+
 h1
 {
 	font-size: 40px;
@@ -12,16 +14,6 @@ h1
 h2
 {
 	font-size: 25px;
-}
-
-a
-{
-    
-}
-
-a:visited
-{
-    
 }
 
 #RepoLink
@@ -35,4 +27,10 @@ a:visited
     margin-top: 20px;
     margin-bottom: 20px;
     padding: 30px;
+}
+
+.HeaderBlock
+{
+    background-color: #212f3c;
+    text-align: center;
 }
