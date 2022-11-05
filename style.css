@@ -14,6 +14,12 @@ h2
 	font-size: 25px;
 }
 
+img
+{
+    width: 50%;
+    height: auto;
+}
+
 #Link
 {
     color: WHITE;
@@ -24,7 +30,7 @@ h2
     background-color: #212f3c;
     text-align: center;
     vertical-align: middle;
-    padding: 30px;
+    padding: 20px;
     margin: 20px;
 }
 
@@ -39,4 +45,6 @@ h2
     flex: 1;
     background-color: #212f3c;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
 }
