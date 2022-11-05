@@ -1,9 +1,8 @@
 body
 {
-	background-color: #000000;
+	background-color: #0c1722;
 	color:  #F3F6F7;
 }	
-
 
 h1
 {
@@ -20,21 +19,24 @@ h2
     color: WHITE;
 }
 
-#SiteLink
-{
-    color: WHITE;
-}
-
-.DivBlock
+.full-row
 {
     background-color: #212f3c;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    text-align: center;
+    vertical-align: middle;
     padding: 30px;
+    margin: 20px;
 }
 
-.HeaderBlock
+.flex-row
 {
+    display: flex;
+    margin: 20px;
+}
+
+.flex-item
+{
+    flex: 1;
     background-color: #212f3c;
     text-align: center;
 }
